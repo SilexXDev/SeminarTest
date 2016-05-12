@@ -1,7 +1,9 @@
 public class Auto {
 	
-	int neuerInt;
+	int reifenAnzahl;
 	
-	int su
+	public Auto(){
+		
+	}
 	
 }
